@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 Hi, I am Ritesh Sinha 
 
-<!--
-**rio14/rio14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A JS enthusiast who always ♥️love to learn. 
 
-Here are some ideas to get you started:
+By degree I am Computer Science engineer, by profession I am developer and by passion I am an atrist. The thoughest ❓question to answer is, what is my hobby. In free time I love to 😴sleep. Not sure how many people buy that as a hobby😆. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I work with **[EasyLorry](http://www.easylr.com/)** as a full stack developer 👨‍💻.
+
+I code in JavaScript. I have tried out Python 😁.
+
+Blindly in love with React and React Native.
+
+Now I am learning Advanced JS 🖖.
+
+Really 🤯crazy about micro-frontends, graphql, project architecturing and deno.
+
+[LinkedIn](https://www.linkedin.com/in/ritesh-kumar-sinha-897735101/) | [Twitter](https://twitter.com/type___error) | [GitHub](https://github.com/shihabus) | [Portfolio](http://codermonk.netlify.com/)
+
+> More of a ⚒️ doer, than a 🌈 dreamer  .
+
