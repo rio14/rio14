@@ -14,7 +14,7 @@ Now I am learning Advanced JS 🖖.
 
 Really 🤯crazy about micro-frontends, graphql, project architecturing and deno.
 
-[LinkedIn](https://www.linkedin.com/in/ritesh-kumar-sinha-897735101/) | [Twitter](https://twitter.com/type___error) | [GitHub](https://github.com/shihabus) | [Portfolio](http://codermonk.netlify.com/)
+[LinkedIn](https://www.linkedin.com/in/ritesh-kumar-sinha-897735101/) | [Twitter](https://twitter.com/Riteshsinha14Rs) | [GitHub](https://github.com/rio14) | [Portfolio](http://codermonk.netlify.com/)
 
 > More of a ⚒️ doer, than a 🌈 dreamer  .
 
