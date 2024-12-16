@@ -5,14 +5,14 @@ Welcome to my digital workspace! Dive in to learn more about who I am, what I do
 ---
 
 ## 👋 About Me  
-Hi, I’m **Ritesh Kumar Sinha**—a blockchain enthusiast and tech innovator from India. Currently, I’m pursuing my **M.Tech at IIT Patna** while working as a **Senior Software Developer** at **Blockchain Laboratories**.  
+Hi, I’m **Ritesh Kumar Sinha**—a blockchain enthusiast and tech innovator from India. Currently, I’m pursuing my **M.Tech at IIT Patna** while working as a **Senior Software Developer** at **W3 SaaS**.  
 
 Passionate about reshaping the future through blockchain, I aim to bridge the gap between imagination and implementation, one block at a time 🔗.  
 
 ---
 
 ## 💼 Professional Experience  
-### **Senior Software Developer** @ **Blockchain Laboratories**  
+### **Senior Software Developer** @ **W3 SaaS**  
 - 🛠️ Crafting cutting-edge **blockchain solutions** and driving **Web3 innovations**.  
 - 🌟 Specializing in tokenization and AI-driven SaaS platforms to empower decentralized ecosystems.  
 - 🚀 Constantly exploring emerging trends in blockchain to contribute to the ever-evolving Web3 landscape.  
